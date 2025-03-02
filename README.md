@@ -1,4 +1,6 @@
 # Py.Calculat0r
+Py.Calculator - 2025
+
 Py.Calculat0r includes:
 - Arithmetic functions
 - Percentages
@@ -19,4 +21,4 @@ The code says that this is a "Simple Calculator" ("Простой калькул
 
 
 
-Py.Calculator - 2025
+
