@@ -1,5 +1,5 @@
 # Py.Calculat0r
-Py.Calculator - 2025
+Py.Calculat0r - 2025
 
 Py.Calculat0r includes:
 - Arithmetic functions
