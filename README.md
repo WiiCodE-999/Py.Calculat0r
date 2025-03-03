@@ -4,7 +4,7 @@ Py.Calculat0r - 2025
 Py.Calculat0r includes:
 - Arithmetic functions
 - Percentages
-- The number π
+- Number π
 - Trigonometric functions
 - Logarithms
 - Square root and cubic root
