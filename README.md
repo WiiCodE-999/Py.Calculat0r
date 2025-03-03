@@ -16,6 +16,9 @@ Py.Calculat0r includes:
 - Latin letters for equations
 - Number module
 - Exponential records
+- Infinity
+- Order of magnitude
+- Arithmetic mean
 
 Half of the code is written in Russian (the developer is from Russia). The project will continue to be updated - the brackets that I did not manage to implement (but will implement soon) are next. 
 
