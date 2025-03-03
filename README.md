@@ -19,6 +19,12 @@ Py.Calculat0r includes:
 - Infinity
 - Order of magnitude
 - Arithmetic mean
+- Derivative
+- Integral
+- Conjunction
+- Disjunction
+- Implication
+- Equivalence
 
 Half of the code is written in Russian (the developer is from Russia). The project will continue to be updated - the brackets that I did not manage to implement (but will implement soon) are next. 
 
