@@ -12,6 +12,10 @@ Py.Calculat0r includes:
 - Factorial
 - Writing to memory
 - Hyperbolic functions
+- Brackets
+- Latin letters for equations
+- Number module
+- Exponential records
 
 Half of the code is written in Russian (the developer is from Russia). The project will continue to be updated - the brackets that I did not manage to implement (but will implement soon) are next. 
 
