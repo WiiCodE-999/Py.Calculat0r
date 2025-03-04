@@ -1,7 +1,10 @@
 # Py.Calculat0r
 A variety of mathematical actions!
+
 41 points!
+
 All elementary algebra and arithmetic!
+
 
 Some points of the Py.Calculat0r:
 - Percentages
