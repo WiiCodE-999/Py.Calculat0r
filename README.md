@@ -26,7 +26,7 @@ Py.Calculat0r includes:
 - Implication
 - Equivalence
 
-Half of the code is written in Russian (the developer is from Russia). The project will continue to be updated - the brackets that I did not manage to implement (but will implement soon) are next. 
+Half of the code is written in Russian (the developer is from Russia). The project will continue to be updated. 
 
 Written in Python.
 
